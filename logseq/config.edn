@@ -419,4 +419,7 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :publishing/all-pages-public? true}
+ :publishing/all-pages-public? true
+ :ui/theme "light"
+ :ui/show-left-sidebar? true
+ }
