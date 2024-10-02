@@ -18,6 +18,11 @@ jobs:
           graph-directory: .
           theme-mode: light
           accent-color: "#ff0000"
+      
+      - name: Modify index.html
+        run: |
+          sed -i 's/data-theme="dark"/data-theme="light"/g' www/index.html
+          sed -i 's/"showLeftSidebar":false/"showLeftSidebar":true/g' www/index.html
           
       - name: Add .nojekyll file
         run: touch www/.nojekyll
