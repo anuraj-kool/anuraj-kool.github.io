@@ -1,4 +1,4 @@
-- PDF version: ![Anuraj Pandey Resume.pdf](../assets/Anuraj_Pandey_Resume_1727903809364_0.pdf)
+- PDF version - [resume](https://drive.google.com/file/d/1dBqOX5dQc3NdLFVAAXWRnVfkB1GmxR0Y/view?usp=sharing)
 - Contact
   collapsed:: true
 	- **[LinkedIn](https://www.linkedin.com/in/anuraj-pandey-5749b48/)**
