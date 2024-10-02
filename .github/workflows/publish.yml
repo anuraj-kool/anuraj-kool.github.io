@@ -13,10 +13,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Logseq Publish
-        uses: logseq/publish-spa@main
-        with:
-          output-directory: www
-          theme-mode: light
+        uses: logseq/publish-spa@v0.3.0
           
       - name: Add .nojekyll file
         run: touch www/.nojekyll
