@@ -17,9 +17,7 @@ jobs:
         with:
           output-directory: www
           theme-mode: light
-          accent-color: blue
-
-
+          
       - name: Add .nojekyll file
         run: touch www/.nojekyll
 
