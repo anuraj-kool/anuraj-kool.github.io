@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["about me" "logseq" "anuraj.kool.so" "resume"]
+ :favorites ["resume" "about me" "logseq" "anuraj.kool.so"]
 
  ;; Set flashcards interval.
  ;; Expected value:
