@@ -21,8 +21,8 @@ jobs:
       
       - name: Modify index.html
         run: |
-          sed -i 's/data-theme="dark"/data-theme="light"/g' www/index.html
-          sed -i 's/"showLeftSidebar":false/"showLeftSidebar":true/g' www/index.html
+          sed -i 's/"ui\/theme":"dark"/"ui\/theme":"light"/g' www/index.html
+          sed -i 's/"ui\/show-left-sidebar?":false/"ui\/show-left-sidebar?":true/g' www/index.html
           
       - name: Add .nojekyll file
         run: touch www/.nojekyll
