@@ -1,0 +1,12 @@
+- resources
+	- huggingface transformers - https://github.com/nlp-with-transformers/notebooks
+- concepts
+	- encoder-decoder
+	- decoder
+	- transformer architecture
+	- self attention
+	- kv cache
+	- tokenization
+- tools
+	- transformers
+	- accelerate

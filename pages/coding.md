@@ -1,0 +1,8 @@
+- resources
+	- grokking coding interview - https://www.educative.io/courses/grokking-coding-interview-in-python
+	- LC common patterns for muscle memory
+- python essentials
+	- inbuilt - https://claude.site/artifacts/4a985796-52d9-4f28-8288-d2debab8d4ee
+	- collections - https://claude.site/artifacts/2f22aca6-1782-4871-94b5-78f508e98906
+	- common patterns - https://claude.ai/chat/afe4a328-8b22-43df-b131-ac3075ae8f62
+	-

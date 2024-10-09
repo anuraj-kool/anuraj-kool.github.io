@@ -1,0 +1,15 @@
+- resources
+	- https://github.com/fastai/fastbook
+- concepts
+	- learner
+	- lr_finder
+	- optimizers
+- algos
+	- resnet
+	- rnn
+	- unet
+	- collab filtering
+	- tabular
+- tools
+	- fastai
+	- pytorch
