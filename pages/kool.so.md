@@ -1,0 +1,2 @@
+- personal media publishing site
+- hosted logseq with steroids

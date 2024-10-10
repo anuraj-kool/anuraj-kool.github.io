@@ -1,1 +1,8 @@
+- personal networked journal
+- powered by [logseq](https://logseq.com/) ❤️
+- domain inspired by childhood cringe email anuraj.kool@ which I later embraced as a lifestyle choice
+- kool.so is inspired by notion.so
 -
+- {{embed ((66fdb5d0-c6e0-4e66-8e9a-eb176948faee))}}
+-
+- watch out for [[kool.so]]
