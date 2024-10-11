@@ -46,7 +46,7 @@
 
  ;; Display all lines of a block when referencing ((block)).
  ;; Default value: false
- :ui/show-full-blocks? false
+ :ui/show-full-blocks? true
 
  ;; Automatically expand block references when zooming in.
  ;; Default value: true
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["human training for ai ml interviews" "human training for ai interviews" "about me" "career" "anuraj.kool.so" "you're listening to kool.fm" "you're listening to 420kool.fm" "resume"]
+ :favorites ["ai research in music production" "human training for ai interviews" "human training for ai ml interviews" "about me" "career" "anuraj.kool.so" "you're listening to kool.fm" "you're listening to 420kool.fm" "resume"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -422,4 +422,10 @@
  :publishing/all-pages-public? true
  :ui/theme "light"
  :ui/show-left-sidebar? true
+ :preferred-format :markdown
+ :editor/logical-outdenting? true
+ :editor/preferred-pasting-file? true
+ :publishing {
+   :title "koolseq"
+   :favicon "../assets/"}
  }
