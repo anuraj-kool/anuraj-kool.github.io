@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["about me" "career" "you're listening to kool.fm" "anuraj.kool.so" "you're listening to 420kool.fm" "resume"]
+ :favorites ["about me" "you're listening to 420kool.fm" "career" "anuraj.kool.so" "you're listening to kool.fm" "human training for ai interviews" "resume"]
 
  ;; Set flashcards interval.
  ;; Expected value:
