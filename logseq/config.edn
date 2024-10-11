@@ -427,5 +427,6 @@
  :editor/preferred-pasting-file? true
  :publishing {
    :title "anuraj.kool"
-   :favicon "../assets/at.png"}
+   :favicon "../assets/at.png"
+  }
  }

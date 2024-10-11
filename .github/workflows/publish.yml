@@ -23,7 +23,9 @@ jobs:
         run: |
           sed -i 's/"ui\/theme":"dark"/"ui\/theme":"light"/g' www/index.html
           sed -i 's/"ui\/show-left-sidebar?":false/"ui\/show-left-sidebar?":true/g' www/index.html
-          
+          sed -i 's/<title>.*<\/title>/<title>anuraj.kool<\/title>/' www/index.html
+          sed -i 's/<link rel="shortcut icon" href="[^"]*">/<link rel="shortcut icon" href="assets\/at.png">/' www/index.html
+
       - name: Add .nojekyll file
         run: touch www/.nojekyll
 
