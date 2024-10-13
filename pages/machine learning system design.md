@@ -56,6 +56,12 @@
 			- ``def weighted_sample(items: List[Any], weights: List[float], k: int = 1) -> List[Any]:`` #card [[ml flashcards]]
 			- ``def stratified_sample_np(X, y, test_size=0.2, random_state=None):`` #card [[ml flashcards]]
 			- ``def reservior_sample()`` #card [[ml flashcards]]
+			  card-last-interval:: 4
+			  card-repeats:: 1
+			  card-ease-factor:: 2.6
+			  card-next-schedule:: 2024-10-16T04:03:03.062Z
+			  card-last-reviewed:: 2024-10-12T04:03:03.064Z
+			  card-last-score:: 5
 		- class imbalance
 			- use right eval metrics
 				- precision = tp/tp+fp
