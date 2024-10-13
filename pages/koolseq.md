@@ -1,0 +1,1 @@
+- logseq fork - https://github.com/anuraj-kool/koolseq/
