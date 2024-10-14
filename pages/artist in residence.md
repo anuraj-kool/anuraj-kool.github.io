@@ -1,1 +1,0 @@
-- incubation and discovery of artist within you
