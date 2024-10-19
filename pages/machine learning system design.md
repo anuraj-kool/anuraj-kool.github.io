@@ -22,16 +22,16 @@
 				- one model per label
 				- use each label as feature instead
 	- objective functions
-		- rsme #card [[ml flashcards]]
-		  card-last-interval:: 4
-		  card-repeats:: 1
-		  card-ease-factor:: 2.36
-		  card-next-schedule:: 2024-10-09T04:19:36.830Z
-		  card-last-reviewed:: 2024-10-05T04:19:36.830Z
+		- rsme
 		  card-last-score:: 3
+		  card-repeats:: 1
+		  card-next-schedule:: 2024-10-09T04:19:36.830Z
+		  card-last-interval:: 4
+		  card-ease-factor:: 2.36
+		  card-last-reviewed:: 2024-10-05T04:19:36.830Z
 			- ```
 			  ```
-		- def cross_entropy(labels, predictions) #card [[ml flashcards]]
+		- def cross_entropy(labels, predictions)
 		  card-last-score:: 3
 		  card-repeats:: 1
 		  card-next-schedule:: 2024-10-09T04:19:32.692Z
@@ -41,13 +41,13 @@
 			- ```
 			  - sum([labels[p_i] * np.log(predictions[p_i]) for p_i in range(predictions)])
 			  ```
-		- logistic loss #card
-		  card-last-interval:: 4
-		  card-repeats:: 1
-		  card-ease-factor:: 2.6
-		  card-next-schedule:: 2024-10-09T04:20:26.592Z
-		  card-last-reviewed:: 2024-10-05T04:20:26.593Z
+		- logistic loss
 		  card-last-score:: 5
+		  card-repeats:: 1
+		  card-next-schedule:: 2024-10-09T04:20:26.592Z
+		  card-last-interval:: 4
+		  card-ease-factor:: 2.6
+		  card-last-reviewed:: 2024-10-05T04:20:26.593Z
 		- combining objective functions
 			- weighted averages of loss ``alpha * loss_1 + beta * loss_2``
 			- weighted averages of scores ``alpha * score_1 + beta * score_2``

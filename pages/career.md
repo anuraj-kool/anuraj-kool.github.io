@@ -21,7 +21,7 @@
 			- 2020-2024
 		- technical lead
 			- 2018-2020
-		- ml engineer
+		- founding ml engineer
 			- 2016-2018
 			- foundational ai infra
 -
