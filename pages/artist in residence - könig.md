@@ -1,7 +1,3 @@
-- könig
-	- king (in german)
-	- könig galleria in berlin
-	- german pilsner beer
-	- homage to berlin and underground music culture
 - artist in residence
 	- incubation and discovery of artist within you
+- {{embed [[könig]]}}
