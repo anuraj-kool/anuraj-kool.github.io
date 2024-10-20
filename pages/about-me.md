@@ -10,7 +10,7 @@
 	- (wannabe) indie hacker, [[kool.so]]
 	- (wannabe) enterprenuer, [[kool labs]]
 - 🧫 [[culture]]
-	- mentoring and coaching [[kingmaker]]
+	- mentoring and coaching [[archegös]]
 	- parenting and nurturing [[skool]]
 - 🏗️ (active) personal projects
 	- [[kool.fm]]

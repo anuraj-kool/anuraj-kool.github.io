@@ -1,0 +1,4 @@
+- author
+- founder
+- pioneer
+- leader
