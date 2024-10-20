@@ -1,0 +1,26 @@
+- [[ai agents]] lam infra co
+- a platform to train your ai team mate on your saas tool
+	- why
+		- everyone wants to build an ai team mate out of their best human
+		  collapsed:: true
+			- {{embed ((670b94a4-be34-4670-944b-552db3895e7f))}}
+	- what
+		- browser controller lam tool to build saas agents n automation
+	- how
+		- record human interactions and sensor data right on your browser
+		- pick open model
+		- train your ai
+		- build evals
+		- deploy saas tool controller ai
+	- who
+		- user persona - human team
+		- buyer - human team
+		- who would benefit the most
+			-
+		- design partners - business tools co
+- other co in this domain
+	- braintrust
+	- browserbase
+	- agents.ai
+	- intercom fin agent
+-
