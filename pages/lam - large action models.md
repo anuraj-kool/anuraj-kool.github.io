@@ -1,0 +1,6 @@
+- resources
+	- https://blog.salesforceairesearch.com/large-action-model-ai-agent/
+	- https://www.rabbit.tech/lam-playground
+	- https://www.servicenow.com/products/ai-agents.html
+	-
+	-
