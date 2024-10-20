@@ -1,0 +1,25 @@
+- 👋 I am anuraj (pandey)
+- 📍san francisco, soma
+- 🧑‍💻 [[career]] ai engineering in tech
+- 🎹 [[creativity]] (wannabe)
+	- artist, music producer, melodic house
+	- author, book, how to be kool
+	- solo-preneur, kool.so, kool labs
+- [[contact]]
+	- send 👋 to anuraj.kool@gmail.com
+	- [𝕏.  ](https://x.com/anuraj_kool) ﹫ [linkedin](https://www.linkedin.com/in/anuraj-pandey-5749b48/)
+- (active) personal projects
+	- [[kool.fm]]
+	- [[kool.so]]
+	- [[kool labs]]
+- (active) areas of interests
+	- [[ai research in music production]]
+	- [[ai agents]]
+	- [[artist in residence - könig]]
+- (active) resources
+	- [[you're listening to kool.fm]]
+	- [[human training for ai interviews]]
+	- this site [[anuraj.kool.so]]
+	- [[kool merch]]
+	- [[ai engineering]]
+	- [[ai research]]

@@ -46,7 +46,7 @@
 
  ;; Display all lines of a block when referencing ((block)).
  ;; Default value: false
- :ui/show-full-blocks? false
+ :ui/show-full-blocks? true
 
  ;; Automatically expand block references when zooming in.
  ;; Default value: true
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["ai research in music production" "human training for ai interviews" "human training for ai ml interviews" "about me" "career" "anuraj.kool.so" "you're listening to kool.fm" "you're listening to 420kool.fm" "resume"]
+ :favorites ["kool merch" "you're listening to kool.fm" "ai agents" "ai research in music production" "human training for ai interviews" "human training for ai ml interviews" "about me" "career" "anuraj.kool.so" "you're listening to 420kool.fm" "resume"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -424,4 +424,9 @@
  :ui/show-left-sidebar? true
  :preferred-format :markdown
  :editor/logical-outdenting? true
+ :editor/preferred-pasting-file? true
+ :publishing {
+   :title "anuraj.kool"
+   :favicon "../assets/at.png"
+  }
  }

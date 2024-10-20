@@ -1,7 +1,0 @@
-- 👋 I am anuraj (pandey)
-- 📍san francisco, soma
-- 🧑‍💻 career - ai engineering in tech
-- 🎹 (wannabe) music producer, melodic house
-- [𝕏.  ](https://x.com/anuraj_kool) ﹫ [linkedin](https://www.linkedin.com/in/anuraj-pandey-5749b48/)
-- send 👋 to anuraj.kool@gmail.com
-- more about this site - [[anuraj.kool.so]]
