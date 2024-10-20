@@ -1,3 +1,4 @@
+- spotify
 - [[kool.fm]]
 	- Ep 1 {{video https://youtu.be/TCSNoEw9W0g?si=dWL2QBUCJchw6ymh}}
 	- Ep 2 {{video https://youtu.be/QRvTzX36mNY?si=nGk-5N7OmriRAWw-}}
