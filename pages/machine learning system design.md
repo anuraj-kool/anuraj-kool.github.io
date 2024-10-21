@@ -53,9 +53,9 @@
 			- weighted averages of scores ``alpha * score_1 + beta * score_2``
 	- training data
 		- sampling
-			- ``def weighted_sample(items: List[Any], weights: List[float], k: int = 1) -> List[Any]:`` #card [[ml flashcards]]
-			- ``def stratified_sample_np(X, y, test_size=0.2, random_state=None):`` #card [[ml flashcards]]
-			- ``def reservior_sample()`` #card [[ml flashcards]]
+			- ``def weighted_sample(items: List[Any], weights: List[float], k: int = 1) -> List[Any]:``
+			- ``def stratified_sample_np(X, y, test_size=0.2, random_state=None):``
+			- ``def reservior_sample()``
 			  card-last-interval:: 4
 			  card-repeats:: 1
 			  card-ease-factor:: 2.6
