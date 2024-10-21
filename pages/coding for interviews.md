@@ -6,9 +6,50 @@
 		- https://www.educative.io/courses/big-o-notation-for-interviews-and-beyond
 		- https://www.educative.io/courses/learn-object-oriented-programming-in-python
 	-
-	- code signal's industry coding skills evaluation framework
-		- https://discover.codesignal.com/rs/659-AFH-023/images/Industry-Coding-Skills-Evaluation-Framework-CodeSignal-Skills-Evaluation-Lab-Short.pdf
-		-
+	- code signal's [[industry coding skills evaluation framework]]
+		- guide - https://discover.codesignal.com/rs/659-AFH-023/images/Industry-Coding-Skills-Evaluation-Framework-CodeSignal-Skills-Evaluation-Lab-Short.pdf
+		- evaluates
+			- software design patternsc
+			- code implementation
+			- problem solving
+			- data structures and data processing
+			- maintaining codebases via refactoring and encapsulation
+		- evaluation
+			- 1 language-agnostic, project-based task
+			- 4 progressive levels that increase in complexity
+				- at each level, new methods and entities are introduced
+					- while retaining the integrity of previously implemented method contracts
+					- ensures to completely change their existing implementations
+					- required to refactor the code to replicate and iterate over a real-world scenerio
+		- 4 levels
+			- level 1 - initial design and basic functions
+				- first level assesses general programming abilities and the use of basic data structures
+				- implement 3-4 simple methods
+				- includes
+					- basic implementation (conditions, loops, type conversions, strings, etc.)
+					- basic data structures (1-2D arrays, lists, hash tables)
+					- covering corner cases
+					- error handling
+				- should exclude
+					- advanced data structures
+					- advanced implementation
+					- any complex algorithms, problem solving, optimizations
+			- level 2 - data structures and data processing
+				- data processing functions, such as calculations, and aggregations, or exporting
+				- while  assessing the ability to reuse code from level 1
+				- focused on implementation skills, and does not require advanced algorithms, problem solving, or optimizations
+				- 1-2 additional methods of medium difficulty
+				- 20-30 minutes on this level, and
+				- write 30-45 lines of code for both level 1 and level 2
+				- includes
+					- Intermediate implementation (data processing, statistical functions, etc.)
+					- processing large streams of data (projection, filtering, aggregation, etc.)
+					- advanced built-in data structures (counters, linked lists, sorted sets, etc.)
+					- manipulate data representations based on commonly used formats (json, csv)
+				- excludes
+					-
+			-
+-
 - python essentials
 	- inbuilt - https://claude.site/artifacts/4a985796-52d9-4f28-8288-d2debab8d4ee
 	- collections - https://claude.site/artifacts/2f22aca6-1782-4871-94b5-78f508e98906
