@@ -9,6 +9,7 @@
 	- (wannabe) author, book, [[how to be kool]]
 	- (wannabe) indie hacker, [[kool.so]]
 	- (wannabe) enterprenuer, [[kool labs]]
+	- (wannabe) lifestyle store, [[urban kool]]
 - 🧫 [[culture]]
 	- mentoring and coaching [[archegös]]
 	- parenting and nurturing [[skool]]
@@ -19,6 +20,7 @@
 - 📖 (active) areas of interests
 	- [[ai engineering]]
 		- [[ai agents]]
+		- [[ai infra]]
 	- [[ai research]]
 		- [[ai research in music production]]
 - 🔖 (active) resources
@@ -27,4 +29,4 @@
 	- [[human training for ai interviews]]
 	- this site [[anuraj.kool.so]]
 	- [[grumpy_gauri]]
-	- [[kool merch]]
+	- lifestyle merch [[urban kool]]

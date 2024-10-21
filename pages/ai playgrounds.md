@@ -1,0 +1,8 @@
+- ai product tools i am using for personal n professional tools
+	- playground.com to design templates
+	- agents.ai to learn browser automation
+	- cursor+claude for coding
+	- rabbit-r1 for gauri's schooling
+	- udio, riffusion, suno for music generation
+	- notebooklm for research
+	- gamma for slides

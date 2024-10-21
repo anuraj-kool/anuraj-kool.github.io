@@ -1,14 +1,4 @@
-- product
-	- agent builder browser tool to setup new skill e.g create a new campaign at blueshift
-		- configure automation
-	- deploy agents as control tools
-		- chat control tool
-		- co-pilot tool
-		- assistant tool
-	- amplitude/optimizely like web tracker to precisely record your saas dom clicks (multimodal)
-		- build evals
-- intercom to control your saas
-- [[ai agents]] [[lam - large action models]] [[ai infra]]
+- like intercom to control your saas
 - a platform to train your ai team mate on your saas tool
 	- why
 		- everyone wants to build an ai team mate out of their best human
@@ -16,6 +6,7 @@
 			- {{embed ((670b94a4-be34-4670-944b-552db3895e7f))}}
 	- what
 		- browser controller lam tool to build saas agents n automation
+		- [[ai agents]] [[lam - large action models]] [[ai infra]]
 	- how
 		- record human interactions and sensor data right on your browser
 		- pick open model
@@ -33,3 +24,12 @@
 	- browserbase
 	- agents.ai
 	- intercom fin agent
+- product
+	- agent builder browser tool to setup new skill e.g create a new campaign at blueshift
+		- configure automation
+	- deploy agents as control tools
+		- chat control tool
+		- co-pilot tool
+		- assistant tool
+	- amplitude/optimizely like web tracker to precisely record your saas dom clicks (multimodal)
+		- build evals

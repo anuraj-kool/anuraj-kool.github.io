@@ -1,3 +1,9 @@
 - personal media publishing site
-- hosted logseq with steroids
--
+	- powered by logseq (with steroids)
+- personal social email inbox
+	- <you>@kool.so
+	- opinionated social email inbox built around your content
+- post to other social using command e.g ``/x``
+	- like text only version of buffer
+	- powered by zap
+	-
