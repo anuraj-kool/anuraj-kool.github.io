@@ -30,3 +30,5 @@
 	- this site [[anuraj.kool.so]]
 	- [[grumpy_gauri]]
 	- lifestyle merch [[urban kool]]
+	- [[x bookmarks worth sharing]] mostly ai, ml, data, product and engineering
+-
