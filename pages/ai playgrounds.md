@@ -6,3 +6,6 @@
 	- udio, riffusion, suno for music generation
 	- notebooklm for research
 	- gamma for slides
+	- replit agents
+	- claude desktop app with [[model context protocol]]
+	- chatgpt
